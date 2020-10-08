@@ -11,6 +11,10 @@
     --sofia:"Sofia",cursive;
 }
 
+body{
+	overflow-x:hidden;
+ }
+
 .primary-color{
     color: var(--primary-color);
 }
